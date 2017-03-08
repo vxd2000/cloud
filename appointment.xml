@@ -1,4 +1,0 @@
-<service>
-<url>https://jsonplaceholder.typicode.com/photos</url>
-<description>Appointment Rest API</description>
-</service>

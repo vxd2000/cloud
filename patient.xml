@@ -1,4 +1,0 @@
-<service>
-<url>https://jsonplaceholder.typicode.com/users</url>
-<description>Patient Rest API</description>
-</service>
