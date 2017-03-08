@@ -1,4 +1,10 @@
-<service>
-<url>https://jsonplaceholder.typicode.com/posts/1</url>
-<description>Sample Rest API</description>
-</service>
+<services>
+  <PatientService>	
+    <url>https://jsonplaceholder.typicode.com/posts/1</url>
+    <description>Patient Service Rest API</description>
+  </PatientService>	
+  <AppointmentService>	
+    <url>https://jsonplaceholder.typicode.com/posts/2</url>
+    <description>Patient Service Rest API</description>
+  </AppointmentService>		  
+</services>
