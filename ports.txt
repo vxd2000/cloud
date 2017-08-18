@@ -5,4 +5,4 @@ ClientService - 8444
 UserService - 8446
 DiscoveryService - 8761
 HystrixDashboard - 9000
-
+ConfigService - 8500
